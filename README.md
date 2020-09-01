@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Characteristics of photo-sharing apps
+Instagram has three distinctive characteristics:
+
+The social aspect. (profiles, followers, likes, shares, comments)
+Photo-editing tools. (crops, frames, filters, collages, stickers)
+Filtered discovery functions. (hashtags, usernames, locations, popular posts)
+Even though we titled this article “What Does it Take to Develop an Instagram Clone?” your app doesn't necessarily have to be a copy of Instagram. Many popular apps, like Photogrid, are exclusively photo editing tools that offer instant sharing to other social media apps. Let's say you are set on developing a photo-sharing app. 
